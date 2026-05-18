@@ -1,3 +1,4 @@
 # srishtisabharwal-demo
-this is my first repository
-author- Srishti Sabharwal
+This is my first repository of git.
+<br>
+Author- Srishti Sabharwal
